@@ -1,0 +1,19 @@
+Lab 1
+
+start_airflow
+
+airflow dags list
+
+airflow tasks list example_bash_operator
+
+airflow tasks list tutorial
+
+airflow dags unpause tutorial
+
+airflow dags pause tutorial
+
+-------------------------------------
+Lab 2
+
+start_airflow
+
